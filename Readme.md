@@ -10,7 +10,11 @@ A lightweight, zero-installation bash command to instantly retrieve key hardware
 🚀 Usage
 Simply copy and paste the following command into your terminal:
 ```
-command -v curl >/dev/null || (apt-get update -y && apt-get install curl -y) && curl -sSL https://raw.githubusercontent.com/ahsanqureshiofficial/vpsspecs/refs/heads/main/vpsspecs.sh | sh
+command -v curl >/dev/null || (apt-get update -y && apt-get install curl -y) && curl -sSL https://raw.githubusercontent.com/ahsanqureshiofficial/vpsspecs/refs/heads/main/vpsspecs.sh | tr -d '\r' | bash
+```
+**Test Speedtest Only**
+```
+command -v curl >/dev/null || (apt-get update -y && apt-get install -y curl) && curl -sSL https://raw.githubusercontent.com/ahsanqureshiofficial/vpsspecs/refs/heads/main/speedtestonly.sh | tr -d '\r' | bash
 ```
 
 Use code with caution.
