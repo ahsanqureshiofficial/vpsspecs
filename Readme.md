@@ -5,7 +5,7 @@ A lightweight, zero-installation bash command to instantly retrieve key hardware
     RAM Info: Extracts total installed memory from /proc/meminfo.
     CPU Cores: Counts logical processors using /proc/cpuinfo.
     Disk Space: Reports available space on the root partition (/).
-    Network Speed: Performs a real-time speed test via speedtest-cli (Python-based).
+    Network Speed: Performs a real-time speed test via speedtest cli powered by ookla.
 
 🚀 Usage
 Simply copy and paste the following command into your terminal:
