@@ -24,10 +24,26 @@ Use code with caution.
 ---
 root@user:*****
 ----------------------------------------
-TOTAL RAM INSTALLED: 30.49 GB
-TOTAL CORES : 8
-AVAIABLE DISK SPACE: 462G
-NETWORK SPEED: 831.99 Mbit/s
+----------------------------------------
+CPU NAME: AMD EPYC 7713 64-Core Processor
+TOTAL CORES: 1
+TOTAL RAM: 1.92 GB
+RAM DETAIL: Multi-bit ECC  RAM
+AVAIABLE DISK SPACE: 44G
+DISK WRITE SPEED: MB/s 478
+DISK READ SPEED:  MB/s 866
+Running network speed test (takes ~30-60 seconds)...
+VPS IP:          192.168.8.1
+ISP:             Akamai Connected Cloud
+TEST SERVER:     TELE AG (id 44477, speedtest.58243.as)
+SERVER LOCATION: Frankfurt, Germany
+PING:            0.617 ms (jitter 0.025 ms)
+DOWNLOAD SPEED:  20397.13 Mbit/s (15259 MB transferred)
+UPLOAD SPEED:    2022.83 Mbit/s (3129 MB transferred)
+PACKET LOSS:     0%
+RESULT URL:      https://www.speedtest.net/result/c/testresult
+----------------------------------------
+
 ----------------------------------------
 ```
 
